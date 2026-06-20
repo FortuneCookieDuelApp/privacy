@@ -2,7 +2,7 @@ Privacy Policy – Fortune Cookie Duel
 
 Last updated: June 2026 
 
-Developer: Erich Panzenböck
+Developer: Lucky Bite Studio
 
 1. Overview
 Fortune Cookie Duel ("the App") is a mobile application available on Google Play. This Privacy Policy explains how the App handles your information.
