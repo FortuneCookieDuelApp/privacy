@@ -41,4 +41,5 @@ This Privacy Policy page is hosted on GitHub Pages. When you view this page, Git
 We may update this Privacy Policy occasionally. The updated version will be indicated by an updated "Last updated" date.
 9. Contact
 If you have questions about this Privacy Policy, please contact:
-Erich Panzenböck Email: fortune.cookie.duel.app@gmail.com 
+Lucky Bite Studio
+Email: fortune.cookie.duel.app@gmail.com 
